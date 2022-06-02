@@ -14,7 +14,7 @@ decorator==4.3.0
 Flask==1.0.2
 Flask-Compress==1.4.0
 gunicorn==19.9.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 itsdangerous==1.1.0
 Jinja2==2.10
